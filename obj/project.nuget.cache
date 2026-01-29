@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "jzC1X+aU+50=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DYEGO.LIMA\\source\\repos\\ApiExportacaoCsv\\ApiExportacaoCsv\\ApiExportacaoCsv.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DYEGO.LIMA\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
+    "C:\\Users\\DYEGO.LIMA\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\DYEGO.LIMA\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.0\\swashbuckle.aspnetcore.swagger.10.1.0.nupkg.sha512",
+    "C:\\Users\\DYEGO.LIMA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.0\\swashbuckle.aspnetcore.swaggergen.10.1.0.nupkg.sha512",
+    "C:\\Users\\DYEGO.LIMA\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.0\\swashbuckle.aspnetcore.swaggerui.10.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

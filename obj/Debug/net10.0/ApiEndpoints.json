@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ApiExportacaoCsv.Controllers.ExportController",
+    "Method": "DownloadUsersCsv",
+    "RelativePath": "api/Export/users-csv",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
